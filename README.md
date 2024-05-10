@@ -1,2 +1,2 @@
-# ate_drug
-A Reliable Human-in-the-loop Annotation Scheme for Aspect Term Extraction and Polarity Detection in Drug Reviews
+
+# ATE_Drug: A Reliable Human-in-the-loop Annotation Scheme for Aspect Term Extraction and Polarity Detection in Drug Reviews
